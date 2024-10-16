@@ -1,0 +1,6 @@
+../Core/Src/main.c:20:5:main	1
+../Core/Src/main.c:37:6:SystemClock_Config	3
+../Core/Src/main.c:85:13:MX_ADC1_Init	2
+../Core/Src/main.c:114:13:MX_GPIO_Init	1
+../Core/Src/main.c:151:13:Configure_GPIO_Pins	3
+../Core/Src/main.c:165:6:Error_Handler	1

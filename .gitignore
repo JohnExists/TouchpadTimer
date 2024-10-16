@@ -1,0 +1,8 @@
+.settings/
+Drivers/
+STM32F446RETX_FLASH.ld
+STM32F446RETX_RAM.ld
+TouchpadTimer Debug.launch
+.cproject
+.mxproject
+.project

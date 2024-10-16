@@ -1,0 +1,7 @@
+../Core/Src/Touchpad.c:4:10:initTouchpad	2
+../Core/Src/Touchpad.c:23:6:updateTouchpad	4
+../Core/Src/Touchpad.c:35:6:checkTouchpad	1
+../Core/Src/Touchpad.c:43:6:checkTouchpadA	7
+../Core/Src/Touchpad.c:72:10:getADCVal	1
+../Core/Src/Touchpad.c:85:6:cpyArray	2
+../Core/Src/Touchpad.c:91:6:OpenChannel	2

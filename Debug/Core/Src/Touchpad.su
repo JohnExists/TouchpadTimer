@@ -1,0 +1,7 @@
+../Core/Src/Touchpad.c:4:10:initTouchpad	56	static
+../Core/Src/Touchpad.c:23:6:updateTouchpad	24	static
+../Core/Src/Touchpad.c:35:6:checkTouchpad	24	static
+../Core/Src/Touchpad.c:43:6:checkTouchpadA	88	dynamic
+../Core/Src/Touchpad.c:72:10:getADCVal	24	static
+../Core/Src/Touchpad.c:85:6:cpyArray	32	static
+../Core/Src/Touchpad.c:91:6:OpenChannel	32	static
