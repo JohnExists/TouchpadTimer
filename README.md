@@ -3,7 +3,7 @@
 This microcontroller project is a interactive timer where the user uses an aluminum foil touchpad to start, stop, or select timer length. The code for the timer and touchpad is present in the `main.c` `Timer.h` `Timer.c` `Touchpad.h` `Touchpad.c` files.
 ### Features
 * Utilizes STM32-F44RE for Managing All Timer Functions and Operations
-* Programming in C and utilizes the STM32 Hal Library
+* Programmed in C and utilizes the STM32 Hal Library
 * Uses an aluminum foil as the touchpad for user input
   * Implemented an algorithm that detects user touch using Analog-To-Digital Conversion (ADC)
 * Visual output through 7-segment displays and LEDs
